@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    text-align: left;
+}
+
+table {
+    border: 1px solid black;
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+    width: 50px;
+    height: 50px;
+}
